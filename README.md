@@ -1,2 +1,2 @@
 # connectFour
-This is the connect four game with the ability to play offline or online.
+This is the connect four game in the 5x4 grid.
